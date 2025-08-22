@@ -8,6 +8,8 @@ namespace console
         static void Main(string[] args)
         {
             EduPlatform.GetInfo();
+            int answer = 42;
+            
         }
     }
 }
