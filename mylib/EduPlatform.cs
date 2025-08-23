@@ -9,4 +9,11 @@ namespace mylib.Entitles
             Console.WriteLine("Edu plataform");
         }
     }
+
+    public class Pessoa
+    {
+        public string nome;
+    }
 }
+
+
